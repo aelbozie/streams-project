@@ -15,7 +15,7 @@ The `src` folder contains two packages:
 
 The http server can be accessed at the following endpoints:
 
-- http://localhost:8080/hello/your_name (you can replace `your_name` by your name or another string)
+- http://localhost:8080/hello/your_name (you can replace `your_name` by your name or another string) 
 - http://localhost:8080/seconds this gets an infinite stream of data. In browsers that support it (most of them nowadays) the content in the page will be updated every second with a new value
 - http://localhost:8080/myStream this is where you will wire your own stream 
 
